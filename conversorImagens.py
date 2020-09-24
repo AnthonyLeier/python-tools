@@ -1,0 +1,1 @@
+#A conversão de imagens deverá ser feita de JPEG e JPG para PNG
