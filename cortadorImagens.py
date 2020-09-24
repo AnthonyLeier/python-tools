@@ -1,10 +1,5 @@
 from PIL import Image
-from matplotlib import image
-from matplotlib import pyplot
 
-from numpy import asarray
-image = Image.open("imagemteste.png")
-
-newimage = image.crop((0,0,0,100))
-
-newimage.save("novaimagem.png", format="PNG")
+image = Image.open("./imagens/convertidas/foto1.png")
+largura, altura = image.size
+image.crop((largura/2, 0, largura, altura)).save("./imagens/corte.png", format="PNG")

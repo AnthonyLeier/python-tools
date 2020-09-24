@@ -1,0 +1,10 @@
+from subprocess import Popen
+print("Executando 1")
+p = Popen("teste.bat", cwd=r"C:\Repositories\deepfake-tools")
+stdout, stderr = p.communicate()
+print("Executando 2")
+p = Popen("teste.bat", cwd=r"C:\Repositories\deepfake-tools")
+stdout, stderr = p.communicate()
+print("Executando 3")
+p = Popen("teste.bat", cwd=r"C:\Repositories\deepfake-tools")
+stdout, stderr = p.communicate()
