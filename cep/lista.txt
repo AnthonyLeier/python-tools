@@ -1,0 +1,899 @@
+89500-536 Abdalla Elias Farfud - r - Berger
+89500-431 Abdalla João - r - Berger
+89509-640 Abdalla José Thomé - r - S Cristóvão
+89501-032 Abílio Franco - r - B Sucesso
+89506-582 Abilio Paes Carneiro - r - Sta Catarina
+89506-656 Abílio Viero - r - Sta Catarina
+89506-036 Absalão Carneiro - lado ímpar - r - Der
+89506-412 Absalão Carneiro - lado par - r - Sta Catarina
+89506-472 Acre - r - Sta Catarina
+89500-743 Adalberto Manoel Petry - r - B Sucesso
+89503-120 Adão Kostantiuk - r - Paraíso
+89510-836 Adelia Julieta Pacheco - r - Martello
+89500-440 Adelia Thomé João - r - Berger
+89500-214 Adelmyr Pressanto - r - Centro
+89500-764 Adeodato Manoel Ramos - r - B Sucesso
+89506-111 Adolfo Franz Groth - até 643/644 - r - Der
+89504-524 Adolfo Franz Groth - de 645/646 ao fim - r - Reunidas
+89510-779 Adolfo Kletke - r - Martello
+89505-032 Adonis Homero Gonçalves Cordeiro - r - Municípios
+89509-174 Adriano José Chiot - r - Bello
+89504-763 Afif João El Messane - lado ímpar - r - Municípios
+89504-563 Afif João El Messane - lado par - r - Reunidas
+89503-269 Agostinho Diedrich - r - Figueroa
+89500-785 Agostinho Saraiva - r - B Sucesso
+89509-057 Aimoré - r - Bello
+89510-815 Alberto Zanatta - r - Martello
+89503-460 Albina Maria Biscaro Zardo - r - Sorgatto
+89501-335 Albino Phelippe Potrich - av - B Sucesso
+89510-857 Albino Phelippe Potrich - av - Martello
+89500-419 Albino Putti - r - Berger
+89510-641 Alcides Sabino - r - Martello
+89503-006 Alcides Tombini - r - Paraíso
+89504-784 Alcir Francisco Zandavalli - r - Municípios
+89511-265 Aldemira Thives Cruz - r - Martello
+89510-583 Aldo Eloy Gatermann - r - At Bonito
+89500-776 Aleixo Gonçalves de Lima - r - B Sucesso
+89503-346 Alemanha - r - Sorgatto
+89511-027 Alexandre Alves Guerin - r - Martello
+89504-655 Alexandre Pegoraro - r - B Jesus
+89504-646 Alexandre Piccoli - r - B Jesus
+89503-414 Alfredo Cachoeira - r - Sorgatto
+89503-530 Alfredo Cachoeira - r - Champagnat
+89503-570 Alfredo Gioppo - r - Champagnat
+89505-000 Alfredo Gioppo - r - Municípios
+89510-595 Alfredo Ribeiro dos Santos - r - At Bonito
+89506-570 Aloys Honório Wagner - r - Sta Catarina
+89511-136 Altair Ferreia de Souza - r - Martello
+89500-025 Altamiro Guimarães, Doutor - até 199/200 - r - Centro
+89504-518 Altamiro Guimarães, Doutor - de 201 ao fim - lado ímpar - r - Reunidas
+89506-003 Altamiro Guimarães, Doutor - de 202 ao fim - lado par - r - Der
+89510-824 Alzerino Alves Pereira - r - Martello
+89500-497 Amadeu Lizott - r - Berger
+89509-009 Amantino Burg - r - Bello
+89506-481 Amazonas - até 603 - lado ímpar - r - Sta Catarina
+89506-478 Amazonas - até 602 - lado par - r - Sta Catarina
+89506-720 Amazonas - de 604 ao fim - lado par - r - Sta Catarina
+89506-586 Amazonas - de 605 ao fim - lado ímpar - r - Sta Catarina
+89503-418 Américo Ballatka - até 38/39 - r - Sorgatto
+89504-652 Américo Ballatka - de 40/41 ao fim - r - B Jesus
+89500-184 Américo Wordell - r - Centro
+89509-239 Anair França Peretti - r - R Fundo
+89510-833 Anastácio Amaro de Souza - r - Martello
+89511-042 Andorinha - r - Martello
+89504-850 Angelina Bernardi Kuczer - r - Municípios
+89506-554 Angelo Bogio - r - Sta Catarina
+89510-489 Ângelo Caovilla - até 198/199 - r - At Bonito
+89500-329 Ângelo Caovilla - de 200 a 352 - lado par - r - Berger
+89510-501 Ângelo Caovilla - de 201 a 351 - lado ímpar - r - At Bonito
+89500-341 Ângelo Caovilla - de 353/354 ao fim - r - Berger
+89505-083 Angelo Nillo Gatti - lado ímpar - rod mun - Municípios
+89506-135 Angelo Nillo Gatti - lado par - rod mun - Der
+89500-332 Ângelo Paganelli - r - Berger
+89500-058 Anita Garibaldi - r - Centro
+89504-856 Anna Mascarello Fioreze - r - Municípios
+89507-543 Anna Viero dos Reis - r - Gioppo
+89503-338 Antonina Gluszczak - r - Sorgatto
+89510-519 Antônio Appi - r - At Bonito
+89507-812 Antonio Belenki - r - N Sra Salete
+89510-773 Antônio Bombassaro - r - Martello
+89503-182 Antonio Comazzetto - av - Figueroa
+89505-026 Antônio da Silva Ribeiro - r - Municípios
+89506-724 Antonio de Paula Ribas - r - Sta Catarina
+89511-260 Antônio Miguel Sulsbach - r - Martello
+89510-791 Antônio Ozório - r - Martello
+89509-251 Antonio Pereira - r - R Fundo
+89507-594 Antonio Ranzani - r - Gioppo
+89507-720 Antonio Ranzani - r - N Sra Salete
+89510-827 Antonio Rosa de Oliveira - r - Martello
+89506-457 Antonio Rossetto - r - Sta Catarina
+89509-389 Antônio Rotta - r - R Fundo
+89500-782 Antônio Tavares Júnior - r - B Sucesso
+89507-558 Antonio Vicente de Lima - r - Gioppo
+89509-401 Antonio Vivan - r - R Fundo
+89509-635 Antonio Vivan - r - S Cristóvão
+89507-868 Antonio Woloch - r - N Sra Salete
+89509-655 Antônio Zarur - até 168/169 - r - S Cristóvão
+89509-398 Antônio Zarur - de 170/171 ao fim - r - R Fundo
+89506-800 Aparício Mantovani - r - Sta Catarina
+89500-250 Aquiles de Paula Linhares - r - Berger
+89510-010 Araçá - r - Aeroporto
+89510-498 Aracaju - r - At Bonito
+89504-778 Araranguá - r - Municípios
+89510-000 Araucária - r - Aeroporto
+89503-241 Arestides Moriggi - r - Figueroa
+89504-548 Argentina - r - Reunidas
+89507-064 Ari Pontes - r - Kurtz
+89500-103 Aristeu Pôrto Lopes - r - Centro
+89500-401 Aristides Malfati - r - Berger
+89509-054 Aristiliano de Almeida - r - Bello
+89506-000 Aristiliano Ramos, Coronel - av - Der
+89506-400 Aristiliano Ramos, Coronel - av - Sta Catarina
+89507-061 Aristiliano Ramos, Coronel - av - Kurtz
+89510-788 Arlindo Aloys Jung - r - Martello
+89507-549 Arlindo Martins da Silva - r - Gioppo
+89509-350 Armindo Dalastra Bonfanti - r - R Fundo
+89507-570 Arnaldo de Paula Timermann - até 345/346 - r - Gioppo
+89507-780 Arnaldo de Paula Timermann - de 347/348 ao fim - r - N Sra Salete
+89505-080 Arnilda Lessing - r - Municípios
+89507-573 Arno Willi Fauth - r - Gioppo
+89506-436 Artur Trevisani - r - Sta Catarina
+89511-225 Ary de Oliveira Carneiro - r - Martello
+89511-166 Ary Harres - r - Martello
+89500-491 Atílio Basquera - r - Berger
+89506-439 Atilio Ceccatto - r - Sta Catarina
+89500-163 Atílio Faoro - lado ímpar - r - Centro
+89500-160 Atílio Faoro - lado par - r - Centro
+89509-024 Augusto Corrêa de Mello - r - Bello
+89511-220 Augusto de Paula Carneiro - r - Martello
+89503-358 Augusto Driessen - r - Sorgatto
+89509-242 Augusto Gonçalves de Moraes - r - R Fundo
+89504-557 Augusto Santo Perret - até 109/110 - r - Reunidas
+89504-766 Augusto Santo Perret - de 111/112 ao fim - r - Municípios
+89503-226 Augusto Xavier Paes - r - Figueroa
+89507-564 Aurélio Costa - r - Gioppo
+89504-554 Áustria - até 287/288 - r - Reunidas
+89504-769 Áustria - de 289/290 ao fim - r - Municípios
+89501-265 Avá-Canoeiro - r - B Sucesso
+89510-020 Avelino Mandelli - rod mun - Aeroporto
+89510-601 Ayrton Araújo Menzel - r - At Bonito
+89501-024 Azaléias, das - r - B Sucesso
+89500-368 Azir de Souza Santos - r - Berger
+89506-027 Badem Powel - r - Der
+89506-484 Bahia - r - Sta Catarina
+89504-503 Balduíno, Tio - r - Reunidas
+89507-864 Bárbara, Santa - r - N Sra Salete
+89507-519 Bartira - r - Gioppo
+89500-395 Basílio Ciffro - r - Berger
+89506-526 Bazbina Akkar - r - Sta Catarina
+89511-051 Beija-Flor - r - Martello
+89506-664 Bela Vista - r - Sta Catarina
+89510-589 Belém - r - At Bonito
+89503-406 Bélgica - r - Sorgatto
+89500-109 Benedito Ponciano - r - Centro
+89506-652 Benjamin Brasil - r - Sta Catarina
+89500-082 Benjamin Constant - r - Centro
+89510-736 Benjamin Gioppo - r - Martello
+89506-409 Benjamin Zandavalli - r - Sta Catarina
+89504-711 Bento do Sul, São - r - Municípios
+89507-876 Bernadete, Santa - r - N Sra Salete
+89501-196 Bernardina Gonçalves de Oliveira Lopes - r - B Sucesso
+89509-353 Bernardino Deboni - r - R Fundo
+89506-130 Bertha Groth - lado ímpar - r - Der
+89504-572 Bertha Groth - lado par - r - Reunidas
+89504-667 Biguaçu - r - B Jesus
+89504-702 Blumenau - r - Municípios
+89504-533 Bolívia - r - Reunidas
+89504-664 Bom Pastor - r - B Jesus
+89500-770 Bonifácio José dos Santos - r - B Sucesso
+89501-270 Bororos - r - B Sucesso
+89509-027 Brasília - até 723 - lado ímpar - r - Bello
+89500-299 Brasília - até 182 - lado par - r - Berger
+89510-480 Brasília - de 184 ao fim - lado par - r - At Bonito
+89509-480 Brasília - de 725 ao fim - lado ímpar - r - S Cristóvão
+89504-793 Bruno Cachoeira - r - Municípios
+89504-676 Brusque - r - B Jesus
+89503-024 Caetano Balvedi - av - Paraíso
+89501-275 Caeté - r - B Sucesso
+89501-280 Caiapós - r - B Sucesso
+89504-637 Camboriú - r - B Jesus
+89500-073 Campos Novos - r - Centro
+89506-418 Campos Sales - r - Sta Catarina
+89503-386 Canadá - r - Sorgatto
+89511-066 Canário - r - Martello
+89506-795 Candida Antônia do Canto - r - Sta Catarina
+89500-320 Canoinhas - r - Berger
+89500-226 Capitulino de Moraes - r - Centro
+89500-293 Capitulino de Moraes - r - Berger
+89509-078 Caraguatá - r - Bello
+89501-285 Carijó - r - B Sucesso
+89501-393 Carlindo de Paula - r - B Sucesso
+89506-030 Carlos Augusto Coelho de Souza - até 368/369 - r - Der
+89506-520 Carlos Augusto Coelho de Souza - de 370/371 ao fim - r - Sta Catarina
+89504-781 Carlos Dalmas - r - Municípios
+89500-088 Carlos Sperança - r - Centro
+89500-085 Carlos Sperança - lado par - r - Centro
+89503-015 Castelo Branco, Presidente - r - Paraíso
+89506-403 Castro Alves - r - Sta Catarina
+89500-124 Catarina, Santa - lado ímpar - av - Centro
+89500-121 Catarina, Santa - lado par - av - Centro
+89504-566 Cecilia Maleske - até 98/99 - r - Reunidas
+89505-059 Cecilia Maleske - de 100/101 ao fim - r - Municípios
+89504-835 Cecília, Santa - r - Municípios
+89510-025 Cedro - r - Aeroporto
+89509-625 Cesar Pereira, Doutor - r - S Cristóvão
+89503-430 Cestélio Solimann - r - Sorgatto
+89506-676 Chico Mendes - r - Sta Catarina
+89504-530 Chile - r - Reunidas
+89509-230 Cicero Buscarons - r - R Fundo
+89500-190 Cid Gonzaga, Coronel - lado ímpar - r - Centro
+89509-000 Cid Gonzaga, Coronel - lado par - r - Bello
+89504-751 Claudino Picoloto - r - Municípios
+89506-102 Clineu Domingos Berardi - r - Der
+89506-442 Clóvis João Dallazem - r - Sta Catarina
+89511-345 Clóvis Luiz de Nardi - r - Industrial
+89504-545 Colômbia - r - Reunidas
+89504-682 Concórdia - r - B Jesus
+89500-380 Contestado - r - Berger
+89504-841 Costa e Silva, Presidente - rod - Municípios
+89504-796 Criciúma - até 999/1000 - r - Municípios
+89504-679 Criciúma - de 1001/1002 ao fim - r - B Jesus
+89511-024 Cristóvão Colombo - r - Martello
+89503-085 Cruz e Souza - r - Paraíso
+89509-039 Curitiba - até 609/610 - r - Bello
+89509-177 Curitiba - de 611 a 999 - lado ímpar - r - Bello
+89509-180 Curitiba - de 612 a 1000 - lado par - r - R Fundo
+89509-263 Curitiba - de 1001 ao fim - lado ímpar - r - R Fundo
+89509-248 Curitiba - de 1002 ao fim - lado par - r - R Fundo
+89500-079 Curitibanos - r - Centro
+89506-108 Daniel Langaro - r - Der
+89503-575 Daniel Lessing - rod - Champagnat
+89504-569 Daniel Lessing - rod - Reunidas
+89505-003 Daniel Lessing - rod - Municípios
+89506-740 Danilo Manfroi - r - Sta Catarina
+89506-594 Dante Sabedot - r - Sta Catarina
+89500-356 Deoclides Pedro Bom - r - Berger
+89500-010 Deodoro, Marechal - r - Centro
+89504-862 Dilermando Biavatti - r - Municípios
+89501-202 Dilma Deboni Petry - até 298/299 - r - B Sucesso
+89510-632 Dilma Deboni Petry - de 300/301 ao fim - r - Martello
+89503-410 Dinamarca - r - Sorgatto
+89510-806 Dinarte José Rodrigues - r - Martello
+89505-050 Dinês de Jesus Cordeiro Farias Rigo - r - Municípios
+89509-260 Diney Werner - r - R Fundo
+89503-055 Domingos Figuerôa - r - Paraíso
+89503-480 Domingos Furtado - r - Sorgatto
+89509-159 Domingos Gabardi - r - Bello
+89509-670 Domingos Giovani Pegoraro - r - S Cristóvão
+89510-739 Domingos Menin - r - Martello
+89506-562 Domingos Pedro Machado - r - Sta Catarina
+89506-558 Domingos Pivato - r - Sta Catarina
+89503-027 Domingos Sorgatto - lado ímpar - r - Paraíso
+89503-374 Domingos Sorgatto - lado par - r - Sorgatto
+89507-744 Edgar da Silva Pacheco - r - N Sra Salete
+89509-081 Edmundo Coelho de Matos - r - Bello
+89500-359 Eduardo Bento - r - Berger
+89505-068 Eduardo Hartmann - r - Municípios
+89507-808 Edwiges, Santa - r - N Sra Salete
+89500-235 Egídio Carpes - r - Centro
+89510-644 Egídio Cordeiro - r - Martello
+89500-172 Elias Abdalla - r - Centro
+89500-347 Elias Biasi - até 339 - lado ímpar - r - Berger
+89510-513 Elias Biasi - até 340 - lado par - r - At Bonito
+89510-507 Elias Biasi - de 341/342 ao fim - r - At Bonito
+89500-767 Elias de Moraes - r - B Sucesso
+89507-752 Eloe Henrique Formighieri - r - N Sra Salete
+89510-623 Elvira Popia Pavelski - r - Martello
+89507-528 Emília Gioppo Brasil - r - Gioppo
+89500-115 Emilio Joaquim - r - Centro
+89506-648 Emílio Prevedo - r - Sta Catarina
+89504-596 Equador - r - Reunidas
+89510-809 Ercílio de Lima - r - Martello
+89505-038 Eri Dupont, Vereador - r - Municípios
+89506-015 Ermindo Albino Fontana - r - Der
+89504-853 Ermindo Luiz Setti - r - Municípios
+89504-560 Erna Inge Keller - r - Reunidas
+89511-245 Ernesto Antonio Zardo - r - Martello
+89504-575 Ernesto Barboza Roesch - r - Reunidas
+89500-371 Ernesto Bolson - r - Berger
+89500-443 Ernesto Borchate - r - Berger
+89500-181 Ernesto Kirschner - r - Centro
+89500-217 Ernesto Martello - r - Centro
+89506-499 Espírito Santo - r - Sta Catarina
+89503-402 Estados Unidos - r - Sorgatto
+89503-229 Estefano Boiko - r - Figueroa
+89505-020 Estefano João Fabiano - r - Municípios
+89510-504 Estefano Kimak - lado ímpar - r - At Bonito
+89500-344 Estefano Kimak - lado par - r - Berger
+89507-058 Etelvino Pedrassani - r - Kurtz
+89507-040 Eucalipto - r - Kurtz
+89509-383 Euclides José Padillha - r - R Fundo
+89510-549 Eugênio Busato - r - At Bonito
+89510-854 Eugênio Francisco Paris - r - Martello
+89505-065 Eugênio Santin - r - Municípios
+89500-761 Eusébia Ferreira dos Santos - r - B Sucesso
+89511-033 Eutimio Miozzo - r - Martello
+89507-567 Evaldo Luiz Fontana - até 118/119 - r - Gioppo
+89507-784 Evaldo Luiz Fontana - de 120/121 ao fim - r - N Sra Salete
+89504-685 Fahdo Thomé - até 2615 - lado ímpar - av - B Jesus
+89504-602 Fahdo Thomé - até 1480 - lado par - av - Reunidas
+89504-690 Fahdo Thomé - de 1482 a 2614 - lado par - av - Municípios
+89503-550 Fahdo Thomé - de 2616/2617 ao fim - av - Champagnat
+89510-776 Fausto Machado de Quadros - r - Martello
+89503-021 Feijó, Padre - r - Paraíso
+89500-752 Felipe João - r - B Sucesso
+89505-053 Felipe José de Paula - r - Municípios
+89501-402 Felisberto Custódio de Oliveira - r - B Sucesso
+89507-522 Fermiano Paes Carneiro - r - Gioppo
+89506-732 Fermina da Conceição Carneiro Ribas - r - Sta Catarina
+89510-686 Fermino Borges de Carvalho - r - Martello
+89507-094 Fernando Badotti - r - Kurtz
+89500-157 Fernando Machado - lado ímpar - r - Centro
+89500-154 Fernando Machado - lado par - r - Centro
+89509-377 Fernando Mayer - r - R Fundo
+89501-411 Fernando Turatti - r - B Sucesso
+89510-785 Fiorindo Constantini - r - Martello
+89510-543 Florêncio Busato - r - At Bonito
+89500-007 Floriano Peixoto, Marechal - r - Centro
+89501-199 Floriano Wozny - r - B Sucesso
+89504-673 Florianópolis - até 288/289 - r - B Jesus
+89504-823 Florianópolis - de 290/291 ao fim - r - Municípios
+89511-036 Florindo D'Agostini - r - Martello
+89510-540 Fortaleza - r - At Bonito
+89500-416 Fraiburgo - r - Berger
+89500-755 Francisco Alonso de Souza - r - B Sucesso
+89503-088 Francisco Assis Bejamini - r - Paraíso
+89509-018 Francisco Chaves dos Santos - r - Bello
+89509-048 Francisco Corrêa de Mello - r - Bello
+89500-500 Francisco de Almeida - r - Berger
+89500-028 Francisco de Assis, São - até 179/180 - r - Centro
+89503-000 Francisco de Assis, São - de 181 ao fim - lado ímpar - r - Paraíso
+89500-004 Francisco de Assis, São - de 182 a 240 - lado par - r - Centro
+89504-613 Francisco de Assis, São - de 242 ao fim - lado par - r - B Jesus
+89500-476 Francisco Driessen - r - Berger
+89511-250 Francisco Geremia - r - Martello
+89511-133 Francisco Lopes de Souza - r - Martello
+89506-660 Francisco Menegazzo - r - Sta Catarina
+89500-434 Francisco Novaski - r - Berger
+89507-591 Francisco Pino Garcia - até 135/136 - r - Gioppo
+89507-736 Francisco Pino Garcia - de 137/138 ao fim - r - N Sra Salete
+89500-238 Francisco Pizzaro - tv - Centro
+89510-851 Francisco Santi - r - Martello
+89507-085 Francisco Schneider - r - Kurtz
+89505-071 Frieda Lessing Kramer - r - Municípios
+89509-404 Generoso Padilha Moraes - r - R Fundo
+89509-165 Genésio Cruz - r - Bello
+89503-132 Gentil Piccoli - r - Paraíso
+89503-334 Geny de Jesus Afonso Carneiro - r - Sorgatto
+89506-090 Gerhard Fezer - lado ímpar - r - Der
+89506-550 Gerhard Fezer - lado par - r - Sta Catarina
+89500-097 Getúlio Vargas - r - Centro
+89501-426 Gilberto Piolla da Silva - r - B Sucesso
+89506-093 Goiás - r - Der
+89501-325 Goitacá - r - B Sucesso
+89510-742 Gomercindo Schaitel Medeiro - r - Martello
+89511-048 Gralha Azul - r - Martello
+89507-091 Gualberto Ramalho - r - Kurtz
+89510-015 Guamirim - r - Aeroporto
+89506-487 Guanabara - r - Sta Catarina
+89507-531 Guaraci - r - Gioppo
+89509-063 Guarani - r - Bello
+89506-451 Guerino Andréa Zanatta - r - Sta Catarina
+89500-031 Guido Gabriel, Irmão - r - Centro
+89503-012 Guido Gabriel, Irmão - r - Paraíso
+89510-730 Guilherme Attilio Zardo - r - Martello
+89501-390 Guilherme Lauro Rupp - r - B Sucesso
+89510-860 Guilherme Lauro Rupp - r - Martello
+89505-056 Guilherme Maleske - r - Municípios
+89507-708 Haide Benetti Busato - r - N Sra Salete
+89506-490 Hamilcas Carneiro - r - Sta Catarina
+89509-362 Heinz Rodolfo Muller - r - R Fundo
+89503-263 Helena Wisniewski - r - Figueroa
+89505-077 Henriette Lessing - r - Municípios
+89500-169 Henrique Cruz Garcia - r - Centro
+89500-290 Henrique Júlio Berger - até 281 - lado ímpar - r - Berger
+89500-223 Henrique Júlio Berger - até 282 - lado par - r - Centro
+89500-386 Henrique Júlio Berger - de 283 ao fim - lado ímpar - r - Berger
+89500-389 Henrique Júlio Berger - de 284 ao fim - lado par - r - Berger
+89509-257 Henrique Vebber da Silva - r - R Fundo
+89510-516 Henriqueta Tedesco - lado ímpar - r - At Bonito
+89500-353 Henriqueta Tedesco - lado par - r - Berger
+89500-377 Heraldo José Maffessoni - r - Berger
+89501-420 Hercélio Tibias - r - B Sucesso
+89503-009 Hercílio Luz - r - Paraíso
+89504-610 Herculano Coelho de Souza - até 259 - lado ímpar - r - B Jesus
+89500-001 Herculano Coelho de Souza - até 330 - lado par - r - Centro
+89504-599 Herculano Coelho de Souza - de 261 a 331 - lado ímpar - r - Reunidas
+89504-590 Herculano Coelho de Souza - de 332/333 ao fim - r - Reunidas
+89503-061 Hermes, Marechal - r - Paraíso
+89503-173 Hermínio Alves de Morais - r - Figueroa
+89500-425 Hermínio Maffessoni - r - Berger
+89503-040 Hilário Baú - r - Paraíso
+89503-366 Holanda - r - Sorgatto
+89507-052 Honorino Alfredo Filippon - r - Kurtz
+89500-580 Honorino Moro - lado ímpar - rod mun - B Sucesso
+89503-155 Honorino Moro - lado ímpar - rod mun - Figueroa
+89503-645 Honorino Moro - lado ímpar - rod mun - Champagnat
+89510-610 Honorino Moro - rod mun - At Bonito
+89510-620 Honorino Moro - rod mun - Martello
+89500-570 Honorino Moro - lado par - rod mun - Berger
+89503-152 Honorino Moro - lado par - rod mun - Figueroa
+89503-330 Honorino Moro - lado par - rod mun - Sorgatto
+89503-640 Honorino Moro - lado par - rod mun - Champagnat
+89503-070 Hugo Honaiser - r - Paraíso
+89500-392 Hugo Torres Cruz - r - Berger
+89507-004 Humberto Busatto - até 953 - lado ímpar - r - Sta Catarina
+89507-010 Humberto Busatto - até 952 - lado par - r - Kurtz
+89507-000 Humberto Busatto - de 954/955 ao fim - r - Sta Catarina
+89501-310 Ianomâni - r - B Sucesso
+89504-775 Ibirama - r - Municípios
+89511-160 Ida Dal Forno Harres - r - Martello
+89510-647 Ignes Bortolon Pivatto - r - Martello
+89509-012 Ilmar José Pierdoná - r - Bello
+89504-772 Imaruí - r - Municípios
+89510-005 Imbuia - r - Aeroporto
+89506-644 Inácio Alves da Silva - r - Sta Catarina
+89503-390 Inglaterra - r - Sorgatto
+89503-179 Iracema Maria Gomes dos Santos - r - Figueroa
+89509-266 Ireno Luiz Cordeiro - r - R Fundo
+89507-724 Irineu Marcos Pierdoná - r - N Sra Salete
+89503-398 Israel - r - Sorgatto
+89504-745 Itá - r - Municípios
+89504-742 Itaiópolis - r - Municípios
+89504-739 Itajaí - r - Municípios
+89503-350 Itália - lado ímpar - r - Sorgatto
+89503-342 Itália - lado par - r - Sorgatto
+89504-736 Itapiranga - r - Municípios
+89504-847 Ituporanga - r - Municípios
+89509-605 Ivan Antônio Barichello - r - S Cristóvão
+89503-052 Ivan José Bolson - r - Paraíso
+89500-749 Ivete Zini - r - B Sucesso
+89506-033 Ivo A Roveda - r - Der
+89506-460 Ivo Gilberto Bueno - r - Sta Catarina
+89506-466 Ivo Raisel - r - Sta Catarina
+89507-097 Izabel, Princesa - r - Kurtz
+89503-223 Izidoro Belotto - r - Figueroa
+89506-009 J Amazonas, Poeta - até 58/59 - r - Der
+89504-515 J Amazonas, Poeta - de 60/61 ao fim - r - Reunidas
+89504-512 Jacob Miguel Zanchettin - r - Reunidas
+89506-538 Jacob Santi - r - Sta Catarina
+89500-374 Jair Carlos Rigo - r - Berger
+89506-532 Jairo Jeronimo Coelho de Souza - r - Sta Catarina
+89507-537 Jandira - r - Gioppo
+89504-708 Jaraguá do Sul - r - Municípios
+89510-839 Jesus Alves Padilha - r - Martello
+89500-335 Joaçaba - r - Berger
+89507-073 Joair dos Santos Lima, Desbravador - r - Kurtz
+89503-370 Joanna Annhice Santin Dalmas - r - Sorgatto
+89510-598 João Amâncio Costa - r - At Bonito
+89511-157 João Angeli - r - Martello
+89500-229 João Antônio Zanchi - r - Centro
+89504-521 João Augustinho da Luz Netto - lado ímpar - r - Reunidas
+89506-120 João Augustinho da Luz Netto - lado par - r - Der
+89509-015 João Balzan - r - Bello
+89507-576 João Benetti Sobrinho - r - Gioppo
+89500-407 João Bordignon - r - Berger
+89501-417 João Carlim do Prado - r - B Sucesso
+89506-578 João Castelani - r - Sta Catarina
+89509-069 João Corrêa de Mello - r - Bello
+89511-139 João D'Agostini - r - Martello
+89511-060 João de Barro - r - Martello
+89507-510 João Ferreira dos Santos - r - Gioppo
+89507-792 João Ferreira dos Santos - r - N Sra Salete
+89504-643 João Foresti - r - B Jesus
+89505-006 João Kuczer - r - Municípios
+89500-494 João Manoel Luiz Osório - r - Berger
+89500-791 João Maria de Agostini - r - B Sucesso
+89511-163 João Maria de Castilho Sobrinho - r - Martello
+89509-084 João Maria, Monge - r - Bello
+89501-414 João Maria Visloski - r - B Sucesso
+89511-145 João Natal - r - Martello
+89507-070 João Nei Pontes - r - Kurtz
+89503-058 João Pedro da Silva Brasil - r - Paraíso
+89500-193 João Pedro Rodrigues - r - Centro
+89510-803 João Pereira da Silva - r - Martello
+89509-365 João Pirolli - r - R Fundo
+89500-187 João Remilio Rigo - r - Centro
+89510-592 João Roberto Moreira, Professor - r - At Bonito
+89506-574 João Rosa dos Santos - r - Sta Catarina
+89509-359 João Schaphauser - r - R Fundo
+89509-356 João Simão de Almeida - r - R Fundo
+89507-748 João Thimóteo Pacheco - r - N Sra Salete
+89501-193 João Thives Sobrinho - r - B Sucesso
+89507-872 João Woloch - r - N Sra Salete
+89511-021 Joaquim Balsanelli - r - Martello
+89504-844 Joaquim Fernandes de Lara - r - Municípios
+89509-168 Joaquim Gonçalves Cordeiro - r - Bello
+89510-794 Joaquim Raizel da Cruz - r - Martello
+89503-176 Joaquim Ribeiro dos Santos - r - Figueroa
+89504-733 Joinville - até 113/114 - r - Municípios
+89504-661 Joinville - de 115/116 a 379/380 - r - B Jesus
+89503-426 Joinville - de 381/382 ao fim - r - Sorgatto
+89503-043 Jonathas Isac Olienik - r - Paraíso
+89504-838 Jordão Granemann - r - Municípios
+89505-041 Jorge Gonçalves Cordeiro - r - Municípios
+89505-062 Jorge João - r - Municípios
+89511-003 Jorge Meirelles - r - Martello
+89506-021 Jorge Thomé - r - Der
+89504-871 José Agusti - r - Municípios
+89506-454 José Antônio Pivato - r - Sta Catarina
+89504-693 José Antonio Salamoni - r - Municípios
+89506-514 José Bento Tristão - r - Sta Catarina
+89500-040 José Boiteux - r - Centro
+89503-073 José Bonifácio - r - Paraíso
+89503-235 José Cezario Guzzi - r - Figueroa
+89507-579 José Chamot, Padre - r - Gioppo
+89511-006 José Corrêa Gonçalves - r - Martello
+89510-492 José de Lemos Braga - r - At Bonito
+89506-566 José de Souza Trindade - r - Sta Catarina
+89500-437 José Edgar Thomé - r - Berger
+89506-736 José Ferreira - r - Sta Catarina
+89507-516 José Gioppo - até 498/499 - r - Gioppo
+89509-045 José Gioppo - de 500/501 ao fim - r - Bello
+89506-590 José Gluszczak - r - Sta Catarina
+89509-075 José Honório Luiz - r - Bello
+89511-000 José Ioos Júnior - r - Martello
+89511-240 José Lewinski - r - Martello
+89501-423 José Lindacir Taborda - r - B Sucesso
+89509-620 José Luiz Cordeiro - r - S Cristóvão
+89510-510 José Manoel da Silva - r - At Bonito
+89500-779 José Maria - r - B Sucesso
+89505-023 José Marques dos Santos - r - Municípios
+89509-153 José Nacle Davi - até 787/788 - r - Bello
+89509-186 José Nacle Davi - de 789/790 ao fim - r - R Fundo
+89510-680 José Oleinik - r - Martello
+89510-821 José Prezalino de Oliveira - r - Martello
+89506-042 José Reichmann - r - Der
+89506-421 José Ribeiro dos Santos - r - Sta Catarina
+89505-035 José Rodrigues - r - Municípios
+89511-270 José Rossi Adami - rod mun - Martello
+89511-280 José Rossi Adami - rod mun - Industrial
+89510-733 José Souza - r - Martello
+89501-405 José Vilmar Monteiro - r - B Sucesso
+89507-082 Josefina Conti - r - Kurtz
+89501-408 Jucely Carlos França - r - B Sucesso
+89500-585 Julia Dalita Stacke D'Agostini - r - B Sucesso
+89507-561 Júlia Gioppo Carneiro - r - Gioppo
+89505-086 Julio Lessing - r - Municípios
+89506-598 Júlio Wisniewski - r - Sta Catarina
+89507-716 Jurandir Oliveira Euriques - r - N Sra Salete
+89507-704 Juruá Coelho de Souza - r - N Sra Salete
+89501-290 Juruna - r - B Sucesso
+89503-378 Justina Bassegio Sorgatto - r - Sorgatto
+89507-796 Juvenal Alves Fagundes - r - N Sra Salete
+89509-072 Kaigang - r - Bello
+89503-018 Kennedy, Presidente - r - Paraíso
+89507-588 Ladislau Liszkievich, Professor - r - Gioppo
+89504-730 Laguna - até 48/49 - r - Municípios
+89504-640 Laguna - de 50/51 ao fim - r - B Jesus
+89500-326 Lajes - r - Berger
+89511-148 Laudelino Fogaça de Almeida - r - Martello
+89504-826 Laurindo Veronese - r - Municípios
+89500-043 Lauro Marins - r - Centro
+89500-118 Lauro Müller - r - Centro
+89507-585 Léo Guilherme Rech, Irmão - r - Gioppo
+89506-606 Leocádia Kerber Pivato - r - Sta Catarina
+89510-537 Leonardo Granemann - r - At Bonito
+89506-640 Leonardo Olindo Visniewski - r - Sta Catarina
+89507-067 Leonel Emílio Aimi - r - Kurtz
+89503-394 Líbano - r - Sorgatto
+89503-555 Lino Sperotto - r - Champagnat
+89509-600 Lourenço Faoro, Engenheiro - até 3177 - lado ímpar - av - S Cristóvão
+89510-770 Lourenço Faoro, Engenheiro - até 2018 - lado par - av - Martello
+89511-340 Lourenço Faoro, Engenheiro - de 2020 ao fim - lado par - av -
+89509-830 Lourenço Faoro, Engenheiro - de 3179 ao fim - lado ímpar - av -
+89503-049 Lourival Elyas - r - Paraíso
+89510-848 Lucia Donida Santi - r - Martello
+89510-546 Luciano Victório Biasi - r - At Bonito
+89510-842 Lucídio Alves Pacheco - r - Martello
+89510-683 Lucilla Brandt Balena - r - Martello
+89500-055 Luiz Andreolla - r - Centro
+89503-220 Luiz Caetano Francio - r - Figueroa
+89500-106 Luiz Caramori - r - Centro
+89500-482 Luiz Carlos Andriola - r - Berger
+89500-488 Luiz Colussi, Dom - r - Berger
+89510-522 Luiz Favarin - r - At Bonito
+89505-029 Luiz Menin - r - Municípios
+89504-865 Luiz Pereira dos Santos - r - Municípios
+89507-088 Luiz Simas - r - Kurtz
+89511-130 Luiz Souza Corrêa - r - Martello
+89507-513 Luiz Tortatto - até 571/572 - r - Gioppo
+89507-788 Luiz Tortatto - de 573/574 ao fim - r - N Sra Salete
+89503-129 Luiza D'Ambroz Faoro - r - Paraíso
+89510-483 Luiza Raisel, Professora - lado ímpar - r - At Bonito
+89500-311 Luiza Raisel, Professora - lado par - r - Berger
+89507-860 Luzia, Santa - r - N Sra Salete
+89503-422 Macieira - até 34/35 - r - Sorgatto
+89504-658 Macieira - de 36/37 ao fim - r - B Jesus
+89504-622 Mafra - r - B Jesus
+89500-130 Mafra, Conselheiro - lado ímpar - r - Centro
+89500-127 Mafra, Conselheiro - lado par - r - Centro
+89509-033 Manaus - r - Bello
+89509-486 Manaus - r - S Cristóvão
+89500-365 Manoel de Souza Santos - r - Berger
+89506-105 Manoel Francio - r - Der
+89500-305 Manoel Luiz Cordeiro - r - Berger
+89504-790 Manoel Pedro Driessen - r - Municípios
+89506-114 Marcelino Anjos - r - Der
+89503-046 Marcio Adriano Leite - r - Paraíso
+89500-485 Márcio Soares - r - Berger
+89507-582 Marcos Afonso Vitto - r - Gioppo
+89500-428 Marcos Gonçalves Cordeiro - r - Berger
+89510-607 Maria Antônia Busato Zandavali - r - At Bonito
+89500-533 Maria Benta de Lima - r - Berger
+89511-230 Maria C de Oliveira Carneiro - r - Martello
+89506-602 Maria de Paula Carneiro - r - Sta Catarina
+89500-178 Maria Deomar Costa Neves - r - Centro
+89507-525 Maria Deomar da Costa Neves - r - Gioppo
+89507-079 Maria dos Prazeres Santos - r - Kurtz
+89511-169 Maria Eva Cardoso - r - Martello
+89506-523 Maria Herondina Tristão - r - Sta Catarina
+89511-350 Maria Machiavelli de Nardi, Irmã - r - Industrial
+89500-773 Maria Rosa - r - B Sucesso
+89506-529 Maria Schumann Rotta - r - Sta Catarina
+89509-156 Marina Wagner Burg - r - Bello
+89509-630 Mario da Luz - r - S Cristóvão
+89510-782 Mário D'Agostini - r - Martello
+89509-610 Marlene Cordeiro Morais - r - S Cristóvão
+89503-126 Martinho Inácio da Trindade - lado ímpar - r - Paraíso
+89503-140 Martinho Inácio da Trindade - lado par - r - Figueroa
+89506-096 Mato Grosso - r - Der
+89500-211 Maturino Borges da Luz - r - Centro
+89500-064 Mauá, Visconde de - r - Centro
+89500-259 Mauá, Visconde de - r - Berger
+89500-013 Miguel Couto - lado ímpar - r - Centro
+89504-500 Miguel Couto - lado par - r - Reunidas
+89500-302 Miguel Cury - r - Berger
+89504-509 Miguel Matos de Figueiredo - r - Reunidas
+89503-076 Milthon Antonio Zampronio - r - Paraíso
+89509-233 Milton Antonio Marini - r - R Fundo
+89509-675 Milton Cesar Pegoraro - r - S Cristóvão
+89506-048 Minas Gerais - lado ímpar - r - Der
+89506-496 Minas Gerais - lado par - r - Sta Catarina
+89500-070 Moacir Sampaio, Doutor - até 99/100 - r - Centro
+89500-232 Moacir Sampaio, Doutor - de 101 a 699 - lado ímpar - r - Centro
+89500-253 Moacir Sampaio, Doutor - de 102 a 700 - lado par - r - Berger
+89500-350 Moacir Sampaio, Doutor - de 701/702 ao fim - r - Berger
+89507-534 Moema - r - Gioppo
+89503-238 Napoleão Ribeiro dos Santos - r - Figueroa
+89504-748 Narciso Basso - r - Municípios
+89500-314 Natal - r - Berger
+89510-495 Natal - r - At Bonito
+89510-635 Nelson Eugênio Busato - até 541 - lado ímpar - r - Martello
+89501-208 Nelson Eugênio Busato - até 540 - lado par - r - B Sucesso
+89501-260 Nelson Eugênio Busato - de 542/543 ao fim - r - B Sucesso
+89500-076 Nereu Ramos - r - Centro
+89500-479 Nicanor Gonçalves Cordeiro - r - Berger
+89510-604 Nilo Henrique Thomé - r - At Bonito
+89510-692 Octacilio Trindade Cordeiro - r - Martello
+89507-055 Odair Roque Tombini Pompermayer - r - Kurtz
+89509-162 Odelir Godinho - r - Bello
+89503-064 Olavo Bilac - r - Paraíso
+89500-788 Olegário Ramos - r - B Sucesso
+89504-874 Olga Turati Agusti - r - Municípios
+89506-427 Olinda, Marquês de - r - Sta Catarina
+89507-740 Olindo Mocinelli - r - N Sra Salete
+89510-689 Olindomar Tonet - r - Martello
+89500-362 Olivio Abatti - até 17/18 - r - Berger
+89510-525 Olivio Abatti - de 19/20 ao fim - r - At Bonito
+89507-546 Olivio Antonio Matos - r - Gioppo
+89506-125 Olympio Vergett - r - Der
+89500-049 Onio Pedrassani - r - Centro
+89510-638 Onofre Pereira - r - Martello
+89503-003 Orestes Pereira Gomes - r - Paraíso
+89504-631 Orleans - r - B Jesus
+89501-008 Orquídeas, das - r - B Sucesso
+89509-006 Oscar Paupitz - r - Bello
+89506-445 Osmar Baptista Stieven - r - Sta Catarina
+89507-804 Osmar Ritter - r - N Sra Salete
+89511-009 Osni Amaro Romão - r - Martello
+89511-018 Osny Teodoro Cunha - r - Martello
+89500-136 Osório, General - tv - Centro
+89509-236 Osvaldo Alves - r - R Fundo
+89510-626 Osvaldo Manoel Gomes - r - Martello
+89507-552 Osvaldo Olsen - até 505/506 - rod mun - Gioppo
+89507-700 Osvaldo Olsen - de 507 ao fim - lado ímpar - rod mun - N Sra Salete
+89507-597 Osvaldo Olsen - de 508 ao fim - lado par - rod mun - Gioppo
+89509-650 Otávio Gonçalves Cordeiro - r - S Cristóvão
+89500-740 Otávio José Leite - r - B Sucesso
+89509-192 Otávio Moraes de Souza - r - R Fundo
+89509-495 Otávio Moraes de Souza - r - S Cristóvão
+89504-760 Otto Lessing - r - Municípios
+89500-112 Ozório Timmermann - r - Centro
+89504-696 Palhoça - r - Municípios
+89503-354 Palmira de Paula Carneiro - r - Sorgatto
+89507-046 Palmito - srv - Kurtz
+89504-551 Panamá - r - Reunidas
+89511-045 Papagaio - r - Martello
+89506-469 Pará - r - Sta Catarina
+89504-527 Paraguai - r - Reunidas
+89506-728 Paschoal de Jesus Lopes - r - Sta Catarina
+89507-049 Pasqual Cassol - r - Kurtz
+89504-820 Pasqual Rotta - r - Municípios
+89501-295 Pataxó - r - B Sucesso
+89500-398 Paulino Leão - até 418/419 - r - Berger
+89503-091 Paulino Leão - de 420/421 ao fim - r - Paraíso
+89503-082 Paulo Castelli - r - Paraíso
+89505-074 Paulo Lessing - r - Municípios
+89510-797 Paulo Luderinghausen - r - Martello
+89506-511 Paulo, São - até 83 - lado ímpar - r - Sta Catarina
+89506-054 Paulo, São - até 84 - lado par - r - Der
+89506-508 Paulo, São - de 85/86 ao fim - r - Sta Catarina
+89503-123 Paulo Veiga - r - Paraíso
+89506-424 Paz, da - r - Sta Catarina
+89511-030 Pedro Alvares Cabral - r - Martello
+89507-100 Pedro Busatto - r - Kurtz
+89511-015 Pedro Campanha - r - Martello
+89507-043 Pedro Deboni - r - Kurtz
+89500-470 Pedro Driessen Filho - r - Berger
+89509-371 Pedro Drissen Sobrinho - r - R Fundo
+89509-036 Pedro Fernandes de Oliveira - r - Bello
+89509-189 Pedro Fernandes de Oliveira - r - R Fundo
+89509-489 Pedro Fernandes de Oliveira - r - S Cristóvão
+89504-649 Pedro Francisco Foresti - r - B Jesus
+89506-099 Pedro João Balena - r - Der
+89501-340 Pedro Mello - r - B Sucesso
+89509-066 Pequena Maria Fernanda - r - Bello
+89511-054 Periquito - r - Martello
+89504-539 Peru - r - Reunidas
+89511-063 Pica-Pau - r - Martello
+89503-079 Pinheiro Machado - r - Paraíso
+89509-395 Plínio Morgenstern - até 99 - lado ímpar - r - R Fundo
+89509-660 Plínio Morgenstern - até 98 - lado par - r - S Cristóvão
+89509-392 Plínio Morgenstern - de 100/101 ao fim - r - R Fundo
+89500-151 Porto União - r - Centro
+89503-362 Portugal - r - Sorgatto
+89501-300 Potiguar - r - B Sucesso
+89504-593 Presciliana Aires de Arruda Maia - r - Reunidas
+89501-012 Primaveras, das - r - B Sucesso
+89501-028 Primo Tedesco, Comendador - lado ímpar - rod - B Sucesso
+89501-000 Primo Tedesco, Comendador - lado par - rod - B Sucesso
+89500-067 Prudente de Morais - lado ímpar - r - Centro
+89500-256 Prudente de Morais - lado par - r - Berger
+89500-022 Quintino Bocaiuva - r - Centro
+89500-530 Rachide Abdalla - r - Berger
+89510-552 Raimundo José Pierdoná - r - At Bonito
+89511-151 Raul Ruppel - r - Martello
+89509-150 Raulino Ribeiro dos Santos - r - Bello
+89506-006 Reinaldo Maffessoni - até 129/130 - r - Der
+89504-506 Reinaldo Maffessoni - de 131/132 ao fim - r - Reunidas
+89506-024 Reinoldo Lebelein - r - Der
+89506-672 Renato Baseggio - r - Sta Catarina
+89500-046 Riachuelo - r - Centro
+89510-818 Ricardo Angelli - r - Martello
+89503-170 Ricardo Fendt - r - Figueroa
+89504-868 Ricieri Crivilatti - r - Municípios
+89500-145 Rio Branco, Barão do - até 365 - lado ímpar - av - Centro
+89500-148 Rio Branco, Barão do - até 364 - lado par - av - Centro
+89500-094 Rio Branco, Barão do - de 366 a 794 - lado par - av - Centro
+89500-091 Rio Branco, Barão do - de 367 a 795 - lado ímpar - av - Centro
+89500-016 Rio Branco, Barão do - de 796 ao fim - lado par - av - Centro
+89500-019 Rio Branco, Barão do - de 797 ao fim - lado ímpar - av - Centro
+89506-430 Rio Branco, Visconde do - r - Sta Catarina
+89500-413 Rio das Antas - r - Berger
+89506-505 Rio de Janeiro - r - Sta Catarina
+89504-705 Rio do Sul - r - Municípios
+89506-493 Rio Grande do Sul - até 159/160 - r - Sta Catarina
+89506-051 Rio Grande do Sul - de 161 ao fim - lado ímpar - r - Der
+89506-502 Rio Grande do Sul - de 162 ao fim - lado par - r - Sta Catarina
+89501-205 Risoleta Lemos Maia - r - B Sucesso
+89507-816 Rita de Cássia, Santa - r - N Sra Salete
+89506-406 Rogério, Frei - r - Sta Catarina
+89507-712 Romeu Sorgatto - r - N Sra Salete
+89509-245 Romildo Koppe - r - R Fundo
+89503-260 Romulo Pereira de Souza - r - Figueroa
+89500-100 Rondon, General - r - Centro
+89506-448 Rondônia - r - Sta Catarina
+89506-463 Roraima - r - Sta Catarina
+89500-175 Rosa Dalla Chiesa Baú - r - Centro
+89507-800 Rosa de Lima, Santa - r - N Sra Salete
+89506-012 Rossetti, Santo - r - Der
+89500-037 Rui Barbosa - r - Centro
+89514-899 Rural - a - A R Caçador
+89511-057 Sabiá - r - Martello
+89504-754 Sadi Antonio Cofferri - r - Municípios
+89500-205 Salgado Filho, Senador - até 909 - lado ímpar - r - Centro
+89500-220 Salgado Filho, Senador - até 672 - lado par - r - Centro
+89500-296 Salgado Filho, Senador - de 674 a 1054 - lado par - r - Berger
+89509-021 Salgado Filho, Senador - de 911 a 1055 - lado ímpar - r - Bello
+89509-042 Salgado Filho, Senador - de 1056/1057 ao fim - r - Bello
+89507-540 Salomão Gioppo Carneiro - r - Gioppo
+89510-580 Salvador - r - At Bonito
+89504-859 Salvador Antunes Abrão - r - Municípios
+89500-166 Sampaio, General - r - Centro
+89509-030 Santiago Rodrigues - r - Bello
+89509-483 Santiago Rodrigues - r - S Cristóvão
+89505-047 Santina Dagani Menin - r - Municípios
+89503-272 Santos Mario Scapineli - r - Figueroa
+89503-232 Savoia Assef - r - Figueroa
+89500-473 Sebastiana de Paula Carneiro Driessen - r - Berger
+89501-190 Sebastião Antônio de Souza - r - B Sucesso
+89504-625 Sebastião Carneiro - r - B Jesus
+89507-076 Sebastião dos Santos - r - Kurtz
+89500-410 Sebastião G do Nascimento - r - Berger
+89509-492 Sebastião Gonçalves Cordeiro - até 59/60 - r - S Cristóvão
+89509-183 Sebastião Gonçalves Cordeiro - de 61/62 a 197/198 - r - R Fundo
+89509-171 Sebastião Gonçalves Cordeiro - de 199/200 ao fim - r - Bello
+89510-695 Sebastião Velasques - r - Martello
+89500-383 Selvino Caramori, Comendador - até 1199 - lado ímpar - av - Berger
+89500-446 Selvino Caramori, Comendador - até 1198 - lado par - av - Berger
+89510-531 Selvino Caramori, Comendador - de 1200 ao fim - lado par - av - At
+89510-528 Selvino Caramori, Comendador - de 1201 ao fim - lado ímpar - av - At
+89511-154 Seny Hartkoff dos Santos - r - Martello
+89506-475 Sergipe - r - Sta Catarina
+89501-444 Serra da Pedra Branca - r - B Sucesso
+89501-435 Serra da Taquara Verde - r - B Sucesso
+89501-429 Serra do Espigão - r - B Sucesso
+89501-441 Serra do Irani - r - B Sucesso
+89501-438 Serra do Rio do Rastro - r - B Sucesso
+89501-432 Serra Geral - r - B Sucesso
+89500-133 Sete de Setembro - av - Centro
+89500-052 Siegfried Helmuth Lührs - r - Centro
+89509-645 Silvério Corrêa dos Santos - r - S Cristóvão
+89510-845 Silvério Sinkere - r - Martello
+89503-244 Silvestre Petrykowski - r - Figueroa
+89510-812 Silvio Gioppo - r - Martello
+89509-386 Silvio Matiello - r - R Fundo
+89506-535 Silvio Santi - r - Sta Catarina
+89500-422 Simpliciano Corrêa de Miranda - r - Berger
+89504-787 Solon Coelho de Souza - r - Municípios
+89505-044 Sulemar Silveira - r - Municípios
+89506-668 Sylvano Proêncio - r - Sta Catarina
+89504-829 Taió - r - Municípios
+89501-330 Tamoio - r - B Sucesso
+89504-832 Tangará - r - Municípios
+89511-142 Telmo Tadeu Siqueira - r - Martello
+89500-758 Teodora - r - B Sucesso
+89509-254 Teófilo Gomes de Mattos - r - R Fundo
+89509-374 Teófilo Zarur - r - R Fundo
+89510-830 Tereza de Freitas Muller - r - Martello
+89501-396 Tereza Diva Garcia - r - B Sucesso
+89500-317 Terezina - r - Berger
+89510-486 Terezina - r - At Bonito
+89504-757 Thomas Pieters, Padre - r - Municípios
+89511-039 Tico-Tico - r - Martello
+89504-628 Tijucas - r - B Jesus
+89500-404 Timbó - r - Berger
+89503-094 Tiradentes - r - Paraíso
+89504-670 Tomaz, Irmão - r - B Jesus
+89504-619 Tomaz Padilha - lado ímpar - r - B Jesus
+89503-382 Tomaz Padilha - lado par - r - Sorgatto
+89503-275 Tomaz Wisniewski - r - Figueroa
+89501-305 Tremembé - r - B Sucesso
+89504-634 Tubarão - r - B Jesus
+89504-699 Tubarão - r - Municípios
+89501-004 Tulipas, das - r - B Sucesso
+89509-060 Tupi - r - Bello
+89509-051 Tupinambá - r - Bello
+89501-320 Tupiniquim - r - B Sucesso
+89506-790 Ursula Scapinelli Montovani - r - Sta Catarina
+89504-542 Uruguai - r - Reunidas
+89504-616 Urussanga - r - B Jesus
+89509-615 Valdir Morais - r - S Cristóvão
+89507-732 Valmor Francisco Schmitt - r - N Sra Salete
+89510-650 Venceslau Gonçalves Vieira - r - Martello
+89504-536 Venezuela - r - Reunidas
+89506-018 Venezuela - r - Der
+89507-728 Vera Lúcia de Oliveira Pinto, Professora - r - N Sra Salete
+89510-800 Vergilio Antonio da Silva - r - Martello
+89503-266 Vergínia Scapineli - r - Figueroa
+89511-235 Vicente Berardi - r - Martello
+89500-142 Victor Baptista Adami - até 379 - lado ímpar - r - Centro
+89500-139 Victor Baptista Adami - até 380 - lado par - r - Centro
+89500-196 Victor Baptista Adami - de 381 ao fim - lado ímpar - r - Centro
+89500-199 Victor Baptista Adami - de 382 ao fim - lado par - r - Centro
+89510-534 Victor Hugo Petry - r - At Bonito
+89500-746 Victoria Ançay Portela - r - B Sucesso
+89507-640 Victório Poletto - rod mun - Gioppo
+89509-368 Victório Poletto - rod mun - R Fundo
+89509-720 Victório Poletto - rod mun - S Cristóvão
+89506-433 Vidal Chaves - r - Sta Catarina
+89506-039 Vidal Ramos, Coronel - r - Der
+89506-415 Vidal Ramos, Coronel - r - Sta Catarina
+89500-323 Videira - r - Berger
+89501-020 Violetas, das - r - B Sucesso
+89503-149 Vital Antonio Almeida - r - Figueroa
+89511-012 Vitoldo Gurski - r - Martello
+89503-067 Vitor Konder - r - Paraíso
+89509-665 Vitor Krüger - r - S Cristóvão
+89501-399 Vitor Lezan - r - B Sucesso
+89500-034 Vitor Meireles - r - Centro
+89510-586 Vitória - r - At Bonito
+89501-016 Vitórias-Régias, das - r - B Sucesso
+89509-380 Vitório Bianchi - r - R Fundo
+89503-143 Vitório Chiarello - até 54/55 - r - Figueroa
+89503-135 Vitório Chiarello - de 56/57 ao fim - r - Paraíso
+89511-255 Vitório Recalcatti - r - Martello
+89506-744 Waldemar Fauth - r - Sta Catarina
+89506-517 Waldomiro Witiuk - r - Sta Catarina
+89503-146 Wilamir Antônio Giaretta - r - Figueroa
+89500-338 Xapecó - r - Berger
+89501-315 Xavantes - r - B Sucesso
+89500-308 Xaxim - r - Berger
+89506-045 XV de Novembro - r - Der
+89510-629 Zaki Thomé - r - Martello
+89507-555 Zélio Rodrigues - r - Gioppo
+89500-202 1º de Maio - lado ímpar - r - Centro
+89509-003 1º de Maio - lado par - r - Bello
+89500-208 13 de Maio - r - Centro
+89500-061 25 de Março - r - Centro
