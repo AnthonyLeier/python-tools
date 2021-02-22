@@ -4,7 +4,7 @@ import unidecode
 import unicodedata
 
 def ultimoCep():
-    arquivo = open("mapeamento.txt", "r")
+    arquivo = open("cep/mapeamento.txt", "r")
     linhas = arquivo.readlines()
     arquivo.close()
     ultimaLinha = linhas[len(linhas)-1]
@@ -14,7 +14,7 @@ def ultimoCep():
 
 def buscarCeps(cep):
     print("Continuando leitura a partir de:", cep)
-    arquivo = open("mapeamento.txt", "a")
+    arquivo = open("cep/mapeamento.txt", "a")
 
     for i in range(cep+1, 89512999):
         request = requests.get("https://brasilapi.com.br/api/cep/v1/" + str(i))
